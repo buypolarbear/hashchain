@@ -3,7 +3,7 @@ HashChain
 
 > WARNING: HashChain is intended for experimenting and learning, NOT for a production environment.
 
-![Image of Yobi](http://www.primechain.in/img/github_hashchain.png)
+![Image of Yobi](http://www.primechaintech.com/assets/base/img/content/github/github_hashchain.png)
 
 HashChain is a simple blockchain powered drag n drop solution for authenticating and verifying electronic records. It is built with php and can be readily deployed on [Multichain](https://github.com/MultiChain). The HashChain project is maintained by [Primechain Technologies Pvt. Ltd.](http://www.primechain.in).
 
