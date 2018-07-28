@@ -19,13 +19,13 @@ HashChain is automatically installed during the [YobiChain](https://github.com/P
 
 Using HashChain
 ---------------
-1. Go to `http://<IP Address>/hashchain/hashchain_authenticator.php` and drag and drop any file (text, doc, pdf, video anything). 
+1. Go to `http://<IP Address>/hashchain` and drag and drop any file (text, doc, pdf, video anything). 
 
 2. The hash of the file will be immediately calculated in your browser. 
 
 3. This hash will then be uploaded to your blockchain and stored. 
 
-4. To verify, go to `http://<IP Address>/hashchain` and drag and drop a file. 
+4. To verify, go to `http://<IP Address>/hashchain/verifier.php` and drag and drop a file. 
 
 5. If the hash of that file exists in your blockchain, the file will show as verified. If not, it will show as not verified.
 
