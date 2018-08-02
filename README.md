@@ -37,8 +37,4 @@ Links to the live demo can be found here - [https://github.com/Primechain/yobich
 
 Contributors
 -------------
-A non-exhaustive list of contributors:
-* Sripathi Srinivasan (sripathi@primechain.in) [Project Lead]
-* Rohas Nagpal (rohas@primechain.in)
-* Sudin Baraokar (HEAD.SBICIC@sbi.co.in)
-* Shinam Arora (shinam@primechain.in)
+Hashchain is maintained by Sripathi Srinivasan, Blockchain Engineer, [Primechain Technologies Pvt. Ltd.](http://www.primechaintech.com). 
